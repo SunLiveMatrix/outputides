@@ -1,13 +1,3 @@
-import { findLast } from '/home/admin/develop.net/outputides/src/_codux/boards/thankGod.board';
-
-const createBoard = () => createBoard();
-
-export default createBoard.apply({
-    name: 'outputides',
-    Board: () => createBoard(),
-    isSnippet: true,
-});
-
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.

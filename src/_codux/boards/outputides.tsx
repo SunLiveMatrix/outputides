@@ -1,7 +1,3 @@
-import { findLast } from '/home/admin/develop.net/outputides/src/_codux/boards/thankGod.board';
-
-
-const createBoard = () => createBoard();
 
 
 /*---------------------------------------------------------------------------------------------

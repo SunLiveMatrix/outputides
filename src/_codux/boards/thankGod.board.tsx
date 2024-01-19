@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import { Comparator } from '/home/admin/develop.net/outputides/src/_codux/boards/markets.board';
+import { Comparator } from './markets';
 
 export function findLast<T>(array: readonly T[], predicate: (item: T) => boolean, fromIdx?: number): T | undefined {
 	const idx = findLastIdx(array, predicate);
